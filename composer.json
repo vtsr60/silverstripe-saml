@@ -39,5 +39,7 @@
     },
     "suggest": {
         "silverstripe/ldap": "Synchronise extra user attributes from Active Directory with LDAP"
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
